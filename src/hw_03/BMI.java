@@ -1,19 +1,11 @@
 package hw_03;
-import javax.swing.JFrame;
-import javax.swing.JTextField;
-import javax.swing.JLabel;
-import java.awt.GridLayout;
 import java.awt.*;
 import java.awt.event.*;
 import javax.swing.*;
-import javax.swing.border.TitledBorder;
-
-
-
 
 
 public class BMI extends JFrame{
-	//Create text fields for name , age , weight , height , BMI
+	//Create text fields for age , weight , height , BMI
 	private JTextField jtfAge = new JTextField(); 
 	private JTextField jtfWeight = new JTextField();
 	private JTextField jtfHeight = new JTextField();
