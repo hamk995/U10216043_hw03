@@ -2,6 +2,7 @@ package hw_03;
 import java.awt.*;
 import java.awt.event.*;
 import javax.swing.*;
+import javax.swing.border.TitledBorder;
 
 
 public class BMI extends JFrame{
